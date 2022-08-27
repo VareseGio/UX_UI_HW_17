@@ -1,0 +1,30 @@
+
+body {background-color: lightblue;}
+
+.MenuBar {padding: 1px; display: flex;
+    flex-wrap: wrap;
+    width: max-content;
+    gap: 1rem;
+    border: 2px solid rebeccapurple;
+    margin: 4em 0;
+    padding: 0.25em 1em;
+    vertical-align: text-top;}
+  
+  .MenuBar li {display: block;}
+
+
+
+  .heroImg{padding: 25px; background-color: blueviolet;}
+
+  footer{background-color: #373738;}
+
+  .footerNav{padding: 1px; display: flex;
+    flex-wrap: wrap;
+    width: max-content;
+    gap: 1rem;
+    border: 2px solid rebeccapurple;
+    margin: 4em 0;
+    padding: 0.25em 1em;
+    vertical-align: text-top;}
+  
+  .footerNav li {display: block;}
